@@ -7,9 +7,8 @@ using System;
 
 class Program 
 {
-   public static void Main (string[] args) 
-   {
-      Console.WriteLine ("Hello World");
-      Console.WriteLine ("\nDone");
+  public static void Main (string[] args) {
+   Console.WriteLine ("Hello, World!");
+   Console.WriteLine ("\nDone");
   }
 }
